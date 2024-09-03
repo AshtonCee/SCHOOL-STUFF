@@ -1,0 +1,28 @@
+body { background: #ffffff; background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/91758/background.jpg); color: #666666; font-family:"Arial, Helvectia, Sans-Serif"; }
+h1 { color: #ffffff; margin-bottom: 0; background:#000033 url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/91758/sunset.jpg")  top right no-repeat; padding: 10px; font-family:"Georgia, Times New Roman, Serif"; }
+#nav { float: left; width: 160px; padding-left: 20px; padding-right: 5px; padding-top: 20px; padding-bottom: 5px; font-weight: bold; }
+#nav ul { list-style-type: none; margin: 0; padding-left: 0; font-size: 1.2em; }
+#nav a { text-decoration: none; }
+#nav a:link { color: #000033; }
+#nav a:visited { color: #344873; }
+#nav a:hover { color: #ffffff; }
+h2 { color: #3399cc; font-family:"Georgia, Times New Roman, Serif"; text-shadow: 1px 1px 1px #ccc; }
+dt { color: #000033; }
+.resort { color: #5c7fa3; font-weight: bold; }
+h3 { color: #000033; font-family:"Georgia, Times New Roman, Serif"; }
+ul {list-style-image:
+  url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/91758/marker.gif); }
+#wrapper { width: 80%; min-width: 960px; background: #90C7E3; box-shadow: 5px 5px 5px #000033; }
+#content { background: #ffffff; padding-top: 1px; padding-left: 30px; padding-right: 20px; padding-bottom: 20px; margin-left: 190px;}
+#content img { float:left; padding-right: 20px; }
+#content ul { list-style-position: inside; }
+#contact { font-size: 90%; }
+footer { font-style: italic; font-family:" Georgia, Times New Roman, Times, Serif"; padding: 20px; font-size: 75%; margin-left: 190px; background-color: #ffffff;  }
+table { border: 1px solid #3399CC; width: 80%; border-spacing: 0; }
+td, th { padding: 5px; border: 1px solid #3399CC; }
+td { text-align: center; }
+text { text-align: left; }
+tr:nth-of-type { background-color: #F5FAFC; }
+label { float:left; display:block; width: 120px; padding-right: 30px; }
+input, textarea { display: block; margin-bottom: 20px; }
+label { float: none; text-align: left; }

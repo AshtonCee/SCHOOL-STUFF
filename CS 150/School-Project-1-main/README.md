@@ -1,0 +1,1 @@
+Super easy and simple function and if-else statement practice that I had to do for a school project. It's basically just a small pricing system for a PC build where I inputted the prices for each part you can choose from.
