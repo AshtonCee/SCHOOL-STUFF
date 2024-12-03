@@ -1,0 +1,5 @@
+Pepsi,1.75, 16 oz, 10
+Pepsi Free,1.75, 16 oz, 0
+Mtn. Dew,1.00, 12 oz, 5
+Dr. Pepper,1.75, 16 oz, 5
+Sprite,1.00, 12 oz, 2

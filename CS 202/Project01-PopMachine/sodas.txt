@@ -1,0 +1,5 @@
+Pepsi,1.75,16,10
+Pepsi Free,1.75,16,1
+Mtn. Dew,1.00,12,5
+Dr. Pepper,1.75,16,5
+Sprite,1.00,12,2
